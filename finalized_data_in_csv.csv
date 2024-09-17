@@ -1,0 +1,566 @@
+nationality,image,name,club,position,height,foot,age
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,85260.png,Kylian Mbappé,Paris Saint-Germain,Attacking Midfielder Left,178,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EG.svg,52690.png,Mohamed Salah,Liverpool,Attacking Midfielder Right,175,Left,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NO.svg,88100.png,Erling Haaland,Manchester City,Forward Centre,194,Left,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,49590.png,Harry Kane,Bayern München,Attacking Midfielder Centre,188,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,41105.png,Kevin de Bruyne,Manchester City,Midfielder Centre,181,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,2772.png,Lionel Messi,Inter Miami CF,Attacking Midfielder Right Centre,170,Left,36
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,90068.png,Vinícius Júnior,Real Madrid,Attacking Midfielder Left,176,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,34893.png,Robert Lewandowski,Barcelona,Forward Centre,185,Right,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,101902.png,Jude Bellingham,Real Madrid,Midfielder Right Left Centre,185,Right,20
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,82178.png,Hernández Rodri,Manchester City,Defensive Midfielder Centre,191,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,68359.png,Becker Alisson,Liverpool,Goalkeeper,192,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,38848.png,Thibaut Courtois,Real Madrid,Goalkeeper,199,Left,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/KO.svg,45279.png,Heung-Min Son,Tottenham Hotspur,Attacking Midfielder Right Left,183,Both,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,41780.png,Antoine Griezmann,Atlético Madrid,Attacking Midfielder Right Left Centre,176,Left,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,38457.png,Júnior Neymar,Al Hilal SFC,Attacking Midfielder Left Centre,175,Both,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,68359.png,Becker Alisson,Liverpool,Goalkeeper,192,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,38848.png,Thibaut Courtois,Real Madrid,Goalkeeper,199,Left,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/KO.svg,45279.png,Heung-Min Son,Tottenham Hotspur,Attacking Midfielder Right Left,183,Both,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,41780.png,Antoine Griezmann,Atlético Madrid,Attacking Midfielder Right Left Centre,176,Left,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,38457.png,Júnior Neymar,Al Hilal SFC,Attacking Midfielder Left Centre,175,Both,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,3884.png,Karim Benzema,Al Ittihad,Forward Centre,187,Both,36
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,68182.png,Bernardo Silva,Manchester City,Midfielder Right Centre,173,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,64598.png,Bruno Fernandes,Manchester United,Midfielder Centre,179,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,38147.png,Ilkay Gündoğan,Barcelona,Defensive Midfielder Centre,180,Both,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,29738.png,Toni Kroos,Real Madrid,Defensive Midfielder Centre,182,Both,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,4336.png,Luka Modrić,Real Madrid,Midfielder Centre,174,Both,38
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,81249.png,Federico Valverde,Real Madrid,Midfielder Right Centre,182,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,88385.png,Trent Alexander-Arnold,Liverpool,Defender Right,175,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,70860.png,Joshua Kimmich,Bayern München,Defender Right,176,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,56786.png,Corrêa Marquinhos,Paris Saint-Germain,Defender Centre,183,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,4336.png,Luka Modrić,Real Madrid,Midfielder Centre,174,Both,38
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,81249.png,Federico Valverde,Real Madrid,Midfielder Right Centre,182,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,88385.png,Trent Alexander-Arnold,Liverpool,Defender Right,175,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,70860.png,Joshua Kimmich,Bayern München,Defender Right,176,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,56786.png,Corrêa Marquinhos,Paris Saint-Germain,Defender Centre,183,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,53468.png,Virgil van Dijk,Liverpool,Defender Centre,193,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AU.svg,42005.png,David Alaba,Real Madrid,Defender Left Centre,180,Left,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,85994.png,Rúben Dias,Manchester City,Defender Centre,187,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,59194.png,Moraes Ederson,Manchester City,Goalkeeper,188,Left,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,47215.png,Marc-André Ter Stegen,Barcelona,Goalkeeper,187,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,16053.png,Manuel Neuer,Bayern München,Goalkeeper,193,Both,38
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,82491.png,Lautaro Martínez,Internazionale,Forward Centre,174,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,93823.png,Goes Rodrygo,Real Madrid,Attacking Midfielder Right Left,174,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,52849.png,Paulo Dybala,AS Roma,Attacking Midfielder Right Centre,177,Left,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,1131.png,Cristiano Ronaldo,Al Nassr,Forward Centre,187,Both,39
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,16053.png,Manuel Neuer,Bayern München,Goalkeeper,193,Both,38
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,82491.png,Lautaro Martínez,Internazionale,Forward Centre,174,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,93823.png,Goes Rodrygo,Real Madrid,Attacking Midfielder Right Left,174,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,52849.png,Paulo Dybala,AS Roma,Attacking Midfielder Right Centre,177,Left,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,1131.png,Cristiano Ronaldo,Al Nassr,Forward Centre,187,Both,39
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NG.svg,84372.png,Víctor Osimhen,SSC Napoli,Forward Centre,186,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,89018.png,Phil Foden,Manchester City,Midfielder Centre,171,Left,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NO.svg,73424.png,Martin Odegaard,Arsenal,Midfielder Centre,178,Left,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,99607.png,Bukayo Saka,Arsenal,Midfielder Right Left,178,Left,22
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,93302.png,Rafael Leão,AC Milan,Attacking Midfielder Left,188,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,73265.png,Leroy Sanè,Bayern München,Attacking Midfielder Right Left Centre,184,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,82275.png,Frenkie de Jong,Barcelona,Defensive Midfielder Centre,181,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,81621.png,Nicolò Barella,Internazionale,Defensive Midfielder Centre,175,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,90916.png,Declan Rice,Arsenal,Defensive Midfielder Centre,185,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,45184.png,Carlos Casemiro,Manchester United,Defensive Midfielder Centre,184,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,73265.png,Leroy Sanè,Bayern München,Attacking Midfielder Right Left Centre,184,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,82275.png,Frenkie de Jong,Barcelona,Defensive Midfielder Centre,181,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,81621.png,Nicolò Barella,Internazionale,Defensive Midfielder Centre,175,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,90916.png,Declan Rice,Arsenal,Defensive Midfielder Centre,185,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,45184.png,Carlos Casemiro,Manchester United,Defensive Midfielder Centre,184,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SC.svg,65977.png,Andy Robertson,Liverpool,Defender Left,178,Left,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,59016.png,João Cancelo,Manchester City,Defender Right Left,182,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,58947.png,John Stones,Manchester City,Defender Right Centre,188,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,94241.png,Éder Militão,Real Madrid,Defender Right Centre,186,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,53792.png,Antonio Rüdiger,Real Madrid,Defender Right Centre,190,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SL.svg,41018.png,Jan Oblak,Atlético Madrid,Goalkeeper,189,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,80266.png,Gabriel Jesus,Arsenal,Attacking Midfielder Right Left,175,Both,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,99727.png,Julián Álvarez,Manchester City,Attacking Midfielder Right Left Centre,172,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,87638.png,Federico Chiesa,Juventus,Attacking Midfielder Right Left Centre,179,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,85984.png,Christopher Nkunku,Chelsea,Attacking Midfielder Right Left Centre,178,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SL.svg,41018.png,Jan Oblak,Atlético Madrid,Goalkeeper,189,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,80266.png,Gabriel Jesus,Arsenal,Attacking Midfielder Right Left,175,Both,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,99727.png,Julián Álvarez,Manchester City,Attacking Midfielder Right Left Centre,172,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,87638.png,Federico Chiesa,Juventus,Attacking Midfielder Right Left Centre,179,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,85984.png,Christopher Nkunku,Chelsea,Attacking Midfielder Right Left Centre,178,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,34809.png,Thomas Müller,Bayern München,Attacking Midfielder Right Centre,186,Right,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,95199.png,Khvicha Kvaratskhelia,SSC Napoli,Attacking Midfielder Left Centre,183,Both,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,84384.png,Marcus Rashford,Manchester United,Attacking Midfielder Right Left,185,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SE.svg,56394.png,Sadio Mané,Al Nassr,Attacking Midfielder Right Left,175,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,55579.png,Raheem Sterling,Chelsea,Attacking Midfielder Right Left Centre,170,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,78093.png,Diogo Jota,Liverpool,Attacking Midfielder Right Left Centre,178,Both,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,45710.png,Álvaro Morata,Atlético Madrid,Attacking Midfielder Left,187,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,39507.png,Romelu Lukaku,Chelsea,Forward Centre,191,Left,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,104640.png,Jamal Musiala,Bayern München,Midfielder Centre,183,Right,21
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,76578.png,James Maddison,Tottenham Hotspur,Midfielder Centre,179,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,78093.png,Diogo Jota,Liverpool,Attacking Midfielder Right Left Centre,178,Both,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,45710.png,Álvaro Morata,Atlético Madrid,Attacking Midfielder Left,187,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,39507.png,Romelu Lukaku,Chelsea,Forward Centre,191,Left,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,104640.png,Jamal Musiala,Bayern München,Midfielder Centre,183,Right,21
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,76578.png,James Maddison,Tottenham Hotspur,Midfielder Centre,179,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,70608.png,Jack Grealish,Manchester City,Attacking Midfielder Left Centre,175,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CO.svg,95525.png,Luis Díaz,Liverpool,Attacking Midfielder Right Left,180,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,84791.png,Mikel Oyarzabal,Real Sociedad,Attacking Midfielder Right Left Centre,181,Left,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,84046.png,Ousmane Dembélé,Paris Saint-Germain,Attacking Midfielder Right Left,178,Both,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,67010.png,Kingsley Coman,Bayern München,Midfielder Right Left,178,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,61101.png,Serge Gnabry,Bayern München,Attacking Midfielder Right Left Centre,173,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AL.svg,58616.png,Riyad Mahrez,Al Ahli SFC,Attacking Midfielder Right Centre,179,Left,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,102243.png,Gonzalez Pedri,Barcelona,Midfielder Left Centre,174,Right,21
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,41664.png,Jorge Koke,Atlético Madrid,Defensive Midfielder Centre,178,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,41512.png,Marco Verratti,Al-Arabi SC,Defensive Midfielder Centre,165,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,61101.png,Serge Gnabry,Bayern München,Attacking Midfielder Right Left Centre,173,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AL.svg,58616.png,Riyad Mahrez,Al Ahli SFC,Attacking Midfielder Right Centre,179,Left,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,102243.png,Gonzalez Pedri,Barcelona,Midfielder Left Centre,174,Right,21
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,41664.png,Jorge Koke,Atlético Madrid,Defensive Midfielder Centre,178,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,41512.png,Marco Verratti,Al-Arabi SC,Defensive Midfielder Centre,165,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,39419.png,Alcântara Thiago,Liverpool,Defensive Midfielder Centre,174,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,94642.png,Bruno Guimarães,Newcastle United,Defensive Midfielder Centre,182,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,76248.png,Mikel Merino,Real Sociedad,Defensive Midfielder Centre,188,Left,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SC.svg,71021.png,Sergej Milinković-Savić,Al Hilal SFC,Midfielder Centre,192,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,58668.png,Leon Goretzka,Bayern München,Defensive Midfielder Centre,189,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,57953.png,Adrien Rabiot,Juventus,Defensive Midfielder Centre,191,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,47427.png,Mateo Kovačić,Manchester City,Defensive Midfielder Centre,181,Both,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/TU.svg,54915.png,Hakan Çalhanoğlu,Internazionale,Defensive Midfielder Centre,178,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,49196.png,Marcelo Brozović,Al Nassr,Defensive Midfielder Centre,181,Both,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,97514.png,Aurélien Tchouameni,Real Madrid,Defender Centre,187,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,57953.png,Adrien Rabiot,Juventus,Defensive Midfielder Centre,191,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,47427.png,Mateo Kovačić,Manchester City,Defensive Midfielder Centre,181,Both,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/TU.svg,54915.png,Hakan Çalhanoğlu,Internazionale,Defensive Midfielder Centre,178,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,49196.png,Marcelo Brozović,Al Nassr,Defensive Midfielder Centre,181,Both,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,97514.png,Aurélien Tchouameni,Real Madrid,Defender Centre,187,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,97662.png,Reece James,Chelsea,Defender Right Centre,182,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/MO.svg,86085.png,Achraf Hakimi,Paris Saint-Germain,Defender Right Left,180,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CA.svg,85954.png,Alphonso Davies,Bayern München,Defender Left,181,Left,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,85388.png,Theo Hernández,AC Milan,Defender Left Centre,184,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,56409.png,Luke Shaw,Manchester United,Defender Left Centre,185,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,46587.png,Daniel Carvajal,Real Madrid,Defender Right,173,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,45675.png,Kieran Trippier,Newcastle United,Defender Right Left,177,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,37853.png,Kyle Walker,Manchester City,Defender Right Centre,178,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,99086.png,William Saliba,Arsenal,Defender Centre,193,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,95157.png,Jules Koundé,Barcelona,Defender Right Centre,178,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,46587.png,Daniel Carvajal,Real Madrid,Defender Right,173,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,45675.png,Kieran Trippier,Newcastle United,Defender Right Left,177,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,37853.png,Kyle Walker,Manchester City,Defender Right Centre,178,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,99086.png,William Saliba,Arsenal,Defender Centre,193,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,95157.png,Jules Koundé,Barcelona,Defender Right Centre,178,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/KO.svg,90167.png,Min-Jae Kim,Bayern München,Defender Centre,190,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,88949.png,Alessandro Bastoni,Internazionale,Defender Centre,190,Left,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,87683.png,Matthijs de Ligt,Bayern München,Defender Centre,189,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,82312.png,Dayot Upamecano,Bayern München,Defender Centre,186,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,20376.png,Mats Hummels,Borussia Dortmund,Defender Centre,191,Right,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,74306.png,Lucas Hernández,Paris Saint-Germain,Defender Left Centre,184,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,94977.png,Ronald Araújo,Barcelona,Defender Right Centre,188,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,89344.png,Gabriel Magalhães,Arsenal,Defender Centre,190,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,86903.png,Cristian Romero,Tottenham Hotspur,Defender Centre,185,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,65326.png,José María Giménez,Atlético Madrid,Defender Centre,185,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,74306.png,Lucas Hernández,Paris Saint-Germain,Defender Left Centre,184,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,94977.png,Ronald Araújo,Barcelona,Defender Right Centre,188,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,89344.png,Gabriel Magalhães,Arsenal,Defender Centre,190,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,86903.png,Cristian Romero,Tottenham Hotspur,Defender Centre,185,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,65326.png,José María Giménez,Atlético Madrid,Defender Centre,185,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SV.svg,64070.png,Milan Skriniar,Paris Saint-Germain,Defender Centre,188,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,47392.png,Raphaël Varane,Manchester United,Defender Centre,191,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,82209.png,Gianluigi Donnarumma,Paris Saint-Germain,Goalkeeper,196,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,68131.png,Mike Maignan,AC Milan,Goalkeeper,191,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,41634.png,Wojciech Szczęsny,Juventus,Goalkeeper,196,Right,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CA.svg,98250.png,Jonathan David,Lille OSC,Attacking Midfielder Centre,180,Both,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SW.svg,83844.png,Alexander Isak,Newcastle United,Attacking Midfielder Left,192,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,81994.png,Andrade Richarlison,Tottenham Hotspur,Attacking Midfielder Right Left Centre,184,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,81689.png,Marcus Thuram,Internazionale,Attacking Midfielder Left,192,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,76517.png,Ollie Watkins,Aston Villa,Attacking Midfielder Right Left,180,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CA.svg,98250.png,Jonathan David,Lille OSC,Attacking Midfielder Centre,180,Both,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SW.svg,83844.png,Alexander Isak,Newcastle United,Attacking Midfielder Left,192,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,81994.png,Andrade Richarlison,Tottenham Hotspur,Attacking Midfielder Right Left Centre,184,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,81689.png,Marcus Thuram,Internazionale,Attacking Midfielder Left,192,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,76517.png,Ollie Watkins,Aston Villa,Attacking Midfielder Right Left,180,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,89761.png,João Félix,Atlético Madrid,Attacking Midfielder Left Centre,180,Both,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,88054.png,Kai Havertz,Arsenal,Midfielder Centre,190,Left,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,66894.png,Ángel Correa,Atlético Madrid,Attacking Midfielder Right Centre,171,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,44009.png,Roberto Firmino,Al Ahli SFC,Attacking Midfielder Centre,181,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,100768.png,Gabriel Martinelli,Arsenal,Attacking Midfielder Right Left,180,Right,22
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,95052.png,Darwin Núñez,Liverpool,Attacking Midfielder Left,188,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,64398.png,Gerard Moreno,Villarreal CF,Attacking Midfielder Right,177,Left,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,47150.png,Wissam Ben Yedder,AS Monaco,Forward Centre,170,Both,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,43289.png,Ciro Immobile,SS Lazio,Forward Centre,185,Right,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,90892.png,Randal Kolo Muani,Paris Saint-Germain,Attacking Midfielder Right Left,187,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,95052.png,Darwin Núñez,Liverpool,Attacking Midfielder Left,188,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,64398.png,Gerard Moreno,Villarreal CF,Attacking Midfielder Right,177,Left,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,47150.png,Wissam Ben Yedder,AS Monaco,Forward Centre,170,Both,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,43289.png,Ciro Immobile,SS Lazio,Forward Centre,185,Right,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,90892.png,Randal Kolo Muani,Paris Saint-Germain,Attacking Midfielder Right Left,187,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SC.svg,84966.png,Dušan Vlahović,Juventus,Forward Centre,190,Left,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,15177.png,Olivier Giroud,AC Milan,Forward Centre,192,Left,37
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BI.svg,14540.png,Edin Džeko,Fenerbahçe SK,Forward Centre,193,Both,38
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,104514.png,Florian Wirtz,Bayer Leverkusen,Attacking Midfielder Right Left Centre,176,Right,20
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,90932.png,Mason Mount,Manchester United,Midfielder Centre,178,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,87087.png,Lucas Paquetá,West Ham United,Midfielder Left Centre,180,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,80829.png,Lorenzo Pellegrini,AS Roma,Midfielder Centre,186,Both,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,71893.png,Julian Brandt,Borussia Dortmund,Midfielder Centre,183,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,59189.png,Monteiro Otávio,Al Nassr,Midfielder Right Left Centre,171,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,35346.png,Marco Reus,Borussia Dortmund,Attacking Midfielder Right Left Centre,180,Both,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,87087.png,Lucas Paquetá,West Ham United,Midfielder Left Centre,180,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,80829.png,Lorenzo Pellegrini,AS Roma,Midfielder Centre,186,Both,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,71893.png,Julian Brandt,Borussia Dortmund,Midfielder Centre,183,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,59189.png,Monteiro Otávio,Al Nassr,Midfielder Right Left Centre,171,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,35346.png,Marco Reus,Borussia Dortmund,Attacking Midfielder Right Left Centre,180,Both,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SC.svg,19587.png,Dušan Tadić,Fenerbahçe SK,Attacking Midfielder Right Left Centre,181,Left,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SW.svg,100914.png,Dejan Kulusevski,Tottenham Hotspur,Attacking Midfielder Right Centre,186,Left,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,94071.png,Moussa Diaby,Aston Villa,Attacking Midfielder Right Left Centre,170,Left,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,87870.png,Belloli Raphinha,Barcelona,Attacking Midfielder Right Left,176,Left,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/US.svg,85046.png,Christian Pulisic,AC Milan,Attacking Midfielder Right Left Centre,179,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,73249.png,Jarrod Bowen,West Ham United,Attacking Midfielder Right Centre,174,Left,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,71047.png,Marco Asensio,Paris Saint-Germain,Attacking Midfielder Right Left Centre,182,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,59671.png,Domenico Berardi,US Sassuolo,Attacking Midfielder Right,185,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,18422.png,Ángel di María,SL Benfica,Attacking Midfielder Right Left Centre,180,Left,36
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,79951.png,Denzel Dumfries,Internazionale,Defender Right,189,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,73249.png,Jarrod Bowen,West Ham United,Attacking Midfielder Right Centre,174,Left,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,71047.png,Marco Asensio,Paris Saint-Germain,Attacking Midfielder Right Left Centre,182,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,59671.png,Domenico Berardi,US Sassuolo,Attacking Midfielder Right,185,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,18422.png,Ángel di María,SL Benfica,Attacking Midfielder Right Left Centre,180,Left,36
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,79951.png,Denzel Dumfries,Internazionale,Defender Right,189,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,104679.png,Enzo Fernández,Chelsea,Defensive Midfielder Centre,178,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/HU.svg,90287.png,Dominik Szoboszlai,Liverpool,Midfielder Right Left Centre,186,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,89447.png,Douglas Luiz,Aston Villa,Defensive Midfielder Centre,175,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UK.svg,83640.png,Oleksandr Zinchenko,Arsenal,Defender Left,175,Left,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,81732.png,Rodrigo Bentancur,Tottenham Hotspur,Defensive Midfielder Centre,188,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,78086.png,Fabián Ruiz,Paris Saint-Germain,Defensive Midfielder Centre,189,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,64586.png,Rodrigo de Paul,Atlético Madrid,Midfielder Centre,180,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,64152.png,Piotr Zielinski,SSC Napoli,Midfielder Centre,180,Both,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,46583.png,Luis Alberto,SS Lazio,Midfielder Centre,182,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/DE.svg,43493.png,Christian Eriksen,Manchester United,Defensive Midfielder Centre,182,Both,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,78086.png,Fabián Ruiz,Paris Saint-Germain,Defensive Midfielder Centre,189,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,64586.png,Rodrigo de Paul,Atlético Madrid,Midfielder Centre,180,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,64152.png,Piotr Zielinski,SSC Napoli,Midfielder Centre,180,Both,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,46583.png,Luis Alberto,SS Lazio,Midfielder Centre,182,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/DE.svg,43493.png,Christian Eriksen,Manchester United,Defensive Midfielder Centre,182,Both,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,22857.png,Dani Parejo,Villarreal CF,Defensive Midfielder Centre,180,Right,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,110053.png,Pablo Gavi,Barcelona,Midfielder Centre,173,Right,19
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,101125.png,Eduardo Camavinga,Real Madrid,Defender Left,182,Left,21
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,95236.png,Alexis Mac Allister,Liverpool,Defensive Midfielder Centre,174,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CM.svg,82677.png,Frank Anguissa,SSC Napoli,Defensive Midfielder Centre,184,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,79262.png,Marcos Llorente,Atlético Madrid,Defender Right,183,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CI.svg,77442.png,Franck Kessié,Al Ahli SFC,Defensive Midfielder Centre,183,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,68341.png,N'golo Kanté,Al Ittihad,Defensive Midfielder Centre,169,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,67729.png,Youri Tielemans,Aston Villa,Defensive Midfielder Centre,177,Both,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AU.svg,50648.png,Marcel Sabitzer,Borussia Dortmund,Midfielder Right Left Centre,177,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,79262.png,Marcos Llorente,Atlético Madrid,Defender Right,183,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CI.svg,77442.png,Franck Kessié,Al Ahli SFC,Defensive Midfielder Centre,183,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,68341.png,N'golo Kanté,Al Ittihad,Defensive Midfielder Centre,169,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,67729.png,Youri Tielemans,Aston Villa,Defensive Midfielder Centre,177,Both,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AU.svg,50648.png,Marcel Sabitzer,Borussia Dortmund,Midfielder Right Left Centre,177,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,39795.png,Henrikh Mkhitaryan,Internazionale,Midfielder Centre,177,Both,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,36211.png,Jordan Henderson,Ajax,Defensive Midfielder Centre,182,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,104827.png,Martín Zubimendi,Real Sociedad,Defensive Midfielder Centre,181,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,96009.png,Teun Koopmeiners,Atalanta BC,Defensive Midfielder Centre,184,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,93561.png,Sandro Tonali,Newcastle United,Defensive Midfielder Centre,181,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,83199.png,Manuel Locatelli,Juventus,Defensive Midfielder Centre,185,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AL.svg,81611.png,Ismaël Bennacer,AC Milan,Defensive Midfielder Centre,175,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,74545.png,Rúben Neves,Al Hilal SFC,Defensive Midfielder Centre,180,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SV.svg,56666.png,Stanislav Lobotka,SSC Napoli,Defensive Midfielder Centre,170,Both,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,54042.png,Frello Jorginho,Arsenal,Defensive Midfielder Centre,178,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,83199.png,Manuel Locatelli,Juventus,Defensive Midfielder Centre,185,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AL.svg,81611.png,Ismaël Bennacer,AC Milan,Defensive Midfielder Centre,175,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,74545.png,Rúben Neves,Al Hilal SFC,Defensive Midfielder Centre,180,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SV.svg,56666.png,Stanislav Lobotka,SSC Napoli,Defensive Midfielder Centre,170,Both,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,54042.png,Frello Jorginho,Arsenal,Defensive Midfielder Centre,178,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SU.svg,46443.png,Granit Xhaka,Bayer Leverkusen,Defensive Midfielder Centre,186,Left,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,78540.png,João Palhinha,Fulham,Defensive Midfielder Centre,190,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GH.svg,68785.png,Thomas Partey,Arsenal,Defender Right,185,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,59007.png,Tavares Fabinho,Al Ittihad,Defender Centre,188,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,102385.png,Jeremie Frimpong,Bayer Leverkusen,Defender Right,171,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,85672.png,Nahuel Molina,Atlético Madrid,Defender Right,175,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,82337.png,Ferland Mendy,Real Madrid,Defender Left,180,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,78694.png,Federico Dimarco,Internazionale,Defender Left Centre,175,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,64405.png,Giovanni di Lorenzo,SSC Napoli,Defender Right Centre,183,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,62557.png,Josè Gayá,Valencia CF,Defender Left,172,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,85672.png,Nahuel Molina,Atlético Madrid,Defender Right,175,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,82337.png,Ferland Mendy,Real Madrid,Defender Left,180,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,78694.png,Federico Dimarco,Internazionale,Defender Left Centre,175,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,64405.png,Giovanni di Lorenzo,SSC Napoli,Defender Right Centre,183,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,62557.png,Josè Gayá,Valencia CF,Defender Left,172,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,59500.png,Raphaël Guerreiro,Bayern München,Defender Left,170,Left,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,51983.png,Álex Grimaldo,Bayer Leverkusen,Defender Left,171,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,97458.png,Joško Gvardiol,Manchester City,Defender Left Centre,185,Left,22
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,95243.png,Lisandro Martínez,Manchester United,Defender Left Centre,175,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,88450.png,Pau Torres,Aston Villa,Defender Centre,192,Left,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,87633.png,Ben White,Arsenal,Defender Right Centre,182,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,76506.png,Presnel Kimpembe,Paris Saint-Germain,Defender Centre,183,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/DE.svg,69440.png,Andreas Christensen,Barcelona,Defender Centre,186,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,64626.png,Nathan Aké,Manchester City,Defender Left Centre,180,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,61438.png,Aymeric Laporte,Al Nassr,Defender Centre,191,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,87633.png,Ben White,Arsenal,Defender Right Centre,182,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,76506.png,Presnel Kimpembe,Paris Saint-Germain,Defender Centre,183,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/DE.svg,69440.png,Andreas Christensen,Barcelona,Defender Centre,186,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,64626.png,Nathan Aké,Manchester City,Defender Left Centre,180,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,61438.png,Aymeric Laporte,Al Nassr,Defender Centre,191,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,55510.png,Matthias Ginter,SC Freiburg,Defender Centre,190,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,46258.png,Francesco Acerbi,Internazionale,Defender Centre,192,Left,36
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,44614.png,Luiz Danilo,Juventus,Defender Right Left Centre,184,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,43318.png,Stefan de Vrij,Internazionale,Defender Centre,189,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CM.svg,42549.png,Joël Matip,Liverpool,Defender Centre,195,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,18338.png,Thiago Silva,Chelsea,Defender Centre,183,Right,39
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,16087.png,Axel Witsel,Atlético Madrid,Defender Centre,186,Right,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,81498.png,Benjamin Pavard,Internazionale,Defender Right Centre,186,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SU.svg,81113.png,Manuel Akanji,Manchester City,Defender Right Left Centre,188,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,98874.png,Sven Botman,Newcastle United,Defender Centre,195,Left,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,18338.png,Thiago Silva,Chelsea,Defender Centre,183,Right,39
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,16087.png,Axel Witsel,Atlético Madrid,Defender Centre,186,Right,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,81498.png,Benjamin Pavard,Internazionale,Defender Right Centre,186,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SU.svg,81113.png,Manuel Akanji,Manchester City,Defender Right Left Centre,188,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,98874.png,Sven Botman,Newcastle United,Defender Centre,195,Left,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,94633.png,Gleison Bremer,Juventus,Defender Centre,188,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,93025.png,Robin le Normand,Real Sociedad,Defender Centre,187,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,86836.png,Fikayo Tomori,AC Milan,Defender Centre,185,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,68027.png,Jonathan Tah,Bayer Leverkusen,Defender Centre,193,Both,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,65808.png,Niklas Süle,Borussia Dortmund,Defender Right Centre,195,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,51661.png,Harry Maguire,Manchester United,Defender Centre,194,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SE.svg,46218.png,Kalidou Koulibaly,Al Hilal SFC,Defender Centre,188,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/MN.svg,43275.png,Stefan Savić,Atlético Madrid,Defender Centre,187,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,38343.png,Nicolás Otamendi,SL Benfica,Defender Centre,183,Right,36
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,2950.png,Sergio Ramos,Sevilla,Defender Centre,183,Right,38
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,51661.png,Harry Maguire,Manchester United,Defender Centre,194,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SE.svg,46218.png,Kalidou Koulibaly,Al Hilal SFC,Defender Centre,188,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/MN.svg,43275.png,Stefan Savić,Atlético Madrid,Defender Centre,187,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,38343.png,Nicolás Otamendi,SL Benfica,Defender Centre,183,Right,36
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,2950.png,Sergio Ramos,Sevilla,Defender Centre,183,Right,38
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SU.svg,88995.png,Gregor Kobel,Borussia Dortmund,Goalkeeper,193,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CM.svg,80336.png,André Onana,Manchester United,Goalkeeper,190,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,61102.png,Emiliano Martínez,Aston Villa,Goalkeeper,195,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,55064.png,Jordan Pickford,Everton,Goalkeeper,185,Left,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SU.svg,34276.png,Yann Sommer,Internazionale,Goalkeeper,183,Right,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,88887.png,Martin Terrier,Stade Rennais,Attacking Midfielder Left,184,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,55043.png,Memphis Depay,Atlético Madrid,Attacking Midfielder Right Left Centre,177,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,97322.png,Cody Gakpo,Liverpool,Midfielder Centre,193,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,64458.png,Rafa Silva,SL Benfica,Attacking Midfielder Left Centre,170,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,40405.png,Andrej Kramarić,TSG 1899 Hoffenheim,Attacking Midfielder Left Centre,180,Both,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,88887.png,Martin Terrier,Stade Rennais,Attacking Midfielder Left,184,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,55043.png,Memphis Depay,Atlético Madrid,Attacking Midfielder Right Left Centre,177,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,97322.png,Cody Gakpo,Liverpool,Midfielder Centre,193,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,64458.png,Rafa Silva,SL Benfica,Attacking Midfielder Left Centre,170,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,40405.png,Andrej Kramarić,TSG 1899 Hoffenheim,Attacking Midfielder Left Centre,180,Both,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CH.svg,12927.png,Alexis Sánchez,Internazionale,Attacking Midfielder Right Left Centre,169,Right,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GH.svg,72649.png,Iñaki Williams,Athletic Club,Attacking Midfielder Right Left,186,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,67935.png,Timo Werner,RB Leipzig,Attacking Midfielder Right Left,180,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CI.svg,45273.png,Wilfried Zaha,Galatasaray SK,Attacking Midfielder Right Left,180,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,70404.png,Ivan Toney,Brentford,Forward Centre,185,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,68181.png,André Silva,RB Leipzig,Forward Centre,182,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,58353.png,Mauro Icardi,Galatasaray SK,Forward Centre,181,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,50818.png,Callum Wilson,Newcastle United,Forward Centre,180,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GA.svg,34634.png,Pierre-Emerick Aubameyang,Olympique Marseille,Attacking Midfielder Left,187,Both,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,6378.png,Luis Suárez,Inter Miami CF,Forward Centre,182,Right,37
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,68181.png,André Silva,RB Leipzig,Forward Centre,182,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,58353.png,Mauro Icardi,Galatasaray SK,Forward Centre,181,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,50818.png,Callum Wilson,Newcastle United,Forward Centre,180,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GA.svg,34634.png,Pierre-Emerick Aubameyang,Olympique Marseille,Attacking Midfielder Left,187,Both,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,6378.png,Luis Suárez,Inter Miami CF,Forward Centre,182,Right,37
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,99292.png,Loïs Openda,RB Leipzig,Forward Centre,177,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/MO.svg,88137.png,Youssef En Nesyri,Sevilla,Forward Centre,188,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IR.svg,87184.png,Mehdi Taremi,FC Porto,Attacking Midfielder Centre,187,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,85226.png,Tammy Abraham,AS Roma,Forward Centre,195,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CZ.svg,75765.png,Patrik Schick,Bayer Leverkusen,Forward Centre,191,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GU.svg,71005.png,Serhou Guirassy,VfB Stuttgart,Forward Centre,187,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CI.svg,54261.png,Sébastien Haller,Borussia Dortmund,Forward Centre,190,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,44682.png,Alexandre Lacazette,Olympique Lyonnais,Forward Centre,176,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,103281.png,Xavi Simons,Paris Saint-Germain,Attacking Midfielder Right Left Centre,179,Right,21
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,97268.png,Pedro Gonçalves,Sporting CP,Midfielder Centre,173,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GU.svg,71005.png,Serhou Guirassy,VfB Stuttgart,Forward Centre,187,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CI.svg,54261.png,Sébastien Haller,Borussia Dortmund,Forward Centre,190,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,44682.png,Alexandre Lacazette,Olympique Lyonnais,Forward Centre,176,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,103281.png,Xavi Simons,Paris Saint-Germain,Attacking Midfielder Right Left Centre,179,Right,21
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,97268.png,Pedro Gonçalves,Sporting CP,Midfielder Centre,173,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,90783.png,Eberechi Eze,Crystal Palace,Midfielder Right Left Centre,173,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,82006.png,Giovani Lo Celso,Tottenham Hotspur,Midfielder Centre,177,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,79874.png,Dani Olmo,RB Leipzig,Attacking Midfielder Right Left Centre,179,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/RU.svg,76072.png,Aleksandr Golovin,AS Monaco,Midfielder Centre,180,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,68130.png,Nabil Fekir,Real Betis,Attacking Midfielder Right Left Centre,173,Left,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,67798.png,Mario Pašalić,Atalanta BC,Defensive Midfielder Centre,188,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,64661.png,Giorgian de Arrascaeta,Flamengo,Attacking Midfielder Right Left Centre,174,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,63849.png,Thomas Lemar,Atlético Madrid,Midfielder Centre,170,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,36008.png,Sergio Canales,Monterrey,Midfielder Centre,179,Left,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,108912.png,Nico Williams,Athletic Club,Attacking Midfielder Right Left,180,Right,21
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,67798.png,Mario Pašalić,Atalanta BC,Defensive Midfielder Centre,188,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,64661.png,Giorgian de Arrascaeta,Flamengo,Attacking Midfielder Right Left Centre,174,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,63849.png,Thomas Lemar,Atlético Madrid,Midfielder Centre,170,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,36008.png,Sergio Canales,Monterrey,Midfielder Centre,179,Left,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,108912.png,Nico Williams,Athletic Club,Attacking Midfielder Right Left,180,Right,21
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/JP.svg,108835.png,Kaoru Mitoma,Brighton and Hove Albion,Attacking Midfielder Left,178,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,106765.png,Yéremy Pino,Villarreal CF,Attacking Midfielder Right Left,172,Right,21
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,99244.png,Santos Antony,Manchester United,Attacking Midfielder Right Left,174,Left,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CM.svg,97651.png,Bryan Mbeumo,Brentford,Attacking Midfielder Right Left Centre,171,Left,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NG.svg,97391.png,Samuel Chukwueze,AC Milan,Attacking Midfielder Right Left,172,Left,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,95238.png,Nicolás González,ACF Fiorentina,Attacking Midfielder Right Left,180,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,93445.png,Ferrán Torres,Barcelona,Attacking Midfielder Right Left,180,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,91278.png,Pedro Neto,Wolverhampton Wanderers,Attacking Midfielder Right Left,172,Left,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,90936.png,Jadon Sancho,Manchester United,Attacking Midfielder Right Left Centre,180,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/JP.svg,90831.png,Takefusa Kubo,Real Sociedad,Attacking Midfielder Right Left Centre,167,Left,22
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,95238.png,Nicolás González,ACF Fiorentina,Attacking Midfielder Right Left,180,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,93445.png,Ferrán Torres,Barcelona,Attacking Midfielder Right Left,180,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,91278.png,Pedro Neto,Wolverhampton Wanderers,Attacking Midfielder Right Left,172,Left,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,90936.png,Jadon Sancho,Manchester United,Attacking Midfielder Right Left Centre,180,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/JP.svg,90831.png,Takefusa Kubo,Real Sociedad,Attacking Midfielder Right Left Centre,167,Left,22
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,73620.png,Mattia Zaccagni,SS Lazio,Midfielder Centre,177,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ME.svg,73018.png,Hirving Lozano,PSV,Attacking Midfielder Right Left,177,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,63543.png,Vincenzo Grifo,SC Freiburg,Attacking Midfielder Right Left Centre,181,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,60105.png,Matteo Politano,SSC Napoli,Attacking Midfielder Right Centre,171,Left,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,58053.png,Yannick Carrasco,Al Shabab,Midfielder Right Left,181,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,56415.png,Leandro Trossard,Arsenal,Midfielder Right Left,171,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,52051.png,Lucas Ocampos,Sevilla,Attacking Midfielder Right Left,187,Both,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,38475.png,Ivan Perišić,Hajduk Split,Defender Left,186,Both,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SC.svg,52390.png,Filip Kostić,Juventus,Midfielder Right Left,184,Left,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,102857.png,Ferreira Vitinha,Paris Saint-Germain,Midfielder Centre,172,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,56415.png,Leandro Trossard,Arsenal,Midfielder Right Left,171,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,52051.png,Lucas Ocampos,Sevilla,Attacking Midfielder Right Left,187,Both,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,38475.png,Ivan Perišić,Hajduk Split,Defender Left,186,Both,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SC.svg,52390.png,Filip Kostić,Juventus,Midfielder Right Left,184,Left,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,102857.png,Ferreira Vitinha,Paris Saint-Germain,Midfielder Centre,172,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,94163.png,Brais Méndez,Real Sociedad,Midfielder Right Centre,187,Left,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AL.svg,87149.png,Houssem Aouar,AS Roma,Midfielder Left Centre,175,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,87019.png,Exequiel Palacios,Bayer Leverkusen,Defensive Midfielder Centre,177,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,86919.png,Carlos Soler,Paris Saint-Germain,Midfielder Centre,183,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/JP.svg,85931.png,Daichi Kamada,SS Lazio,Midfielder Centre,184,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,54512.png,João Mário,SL Benfica,Midfielder Right Left Centre,179,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,53464.png,James Ward-Prowse,West Ham United,Midfielder Centre,173,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,40710.png,Pascal Gross,Brighton and Hove Albion,Defender Right Left,181,Both,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AU.svg,76629.png,Konrad Laimer,Bayern München,Defender Right,179,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,99560.png,Youssouf Fofana,AS Monaco,Defensive Midfielder Centre,176,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,54512.png,João Mário,SL Benfica,Midfielder Right Left Centre,179,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,53464.png,James Ward-Prowse,West Ham United,Midfielder Centre,173,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,40710.png,Pascal Gross,Brighton and Hove Albion,Defender Right Left,181,Both,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AU.svg,76629.png,Konrad Laimer,Bayern München,Defender Right,179,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,99560.png,Youssouf Fofana,AS Monaco,Defensive Midfielder Centre,176,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,98824.png,Oihan Sancet,Athletic Club,Midfielder Centre,188,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SC.svg,90862.png,Scott Mctominay,Manchester United,Defensive Midfielder Centre,193,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ML.svg,88886.png,Yves Bissouma,Tottenham Hotspur,Defensive Midfielder Centre,181,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AU.svg,86450.png,Xaver Schlager,RB Leipzig,Defensive Midfielder Centre,184,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CZ.svg,84076.png,Tomáš Souček,West Ham United,Defensive Midfielder Centre,190,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,78464.png,Valentin Rongier,Olympique Marseille,Defender Right,172,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,78088.png,Cassio Joelinton,Newcastle United,Midfielder Left Centre,186,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,76777.png,Renato Sanches,Paris Saint-Germain,Defensive Midfielder Centre,176,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CI.svg,64305.png,Seko Fofana,Al Nassr,Defensive Midfielder Centre,185,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SC.svg,63650.png,John Mcginn,Aston Villa,Midfielder Right Left Centre,178,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,78464.png,Valentin Rongier,Olympique Marseille,Defender Right,172,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,78088.png,Cassio Joelinton,Newcastle United,Midfielder Left Centre,186,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,76777.png,Renato Sanches,Paris Saint-Germain,Defensive Midfielder Centre,176,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CI.svg,64305.png,Seko Fofana,Al Nassr,Defensive Midfielder Centre,185,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SC.svg,63650.png,John Mcginn,Aston Villa,Midfielder Right Left Centre,178,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,58165.png,Rodrigues Fred,Fenerbahçe SK,Defensive Midfielder Centre,169,Left,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,55131.png,Jonas Hofmann,Bayer Leverkusen,Midfielder Right Centre,174,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,51118.png,Jordan Veretout,Olympique Marseille,Defensive Midfielder Centre,176,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,46736.png,Saúl Níguez,Atlético Madrid,Defensive Midfielder Centre,184,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,80933.png,Kalvin Phillips,Manchester City,Defensive Midfielder Centre,178,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,47375.png,Leandro Paredes,AS Roma,Defensive Midfielder Centre,180,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,35330.png,Sergio Busquets,Inter Miami CF,Defensive Midfielder Centre,189,Right,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EC.svg,104266.png,Moisés Caicedo,Chelsea,Defensive Midfielder Centre,178,Right,22
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,89658.png,Manuel Ugarte,Paris Saint-Germain,Defensive Midfielder Centre,182,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ME.svg,89125.png,Edson Álvarez,West Ham United,Defender Centre,187,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,47375.png,Leandro Paredes,AS Roma,Defensive Midfielder Centre,180,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,35330.png,Sergio Busquets,Inter Miami CF,Defensive Midfielder Centre,189,Right,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EC.svg,104266.png,Moisés Caicedo,Chelsea,Defensive Midfielder Centre,178,Right,22
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/UR.svg,89658.png,Manuel Ugarte,Paris Saint-Germain,Defensive Midfielder Centre,182,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ME.svg,89125.png,Edson Álvarez,West Ham United,Defender Centre,187,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,88227.png,Boubacar Kamara,Aston Villa,Defender Centre,184,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CI.svg,87315.png,Ibrahim Sangaré,Nottingham Forest,Defensive Midfielder Centre,191,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SU.svg,83294.png,Denis Zakaria,AS Monaco,Defender Centre,191,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NG.svg,80792.png,Wilfred Ndidi,Leicester City,Defender Centre,184,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,77206.png,Guido Rodríguez,Real Betis,Defensive Midfielder Centre,185,Right,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/MO.svg,77118.png,Sofyan Amrabat,ACF Fiorentina,Defensive Midfielder Centre,185,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,69941.png,Bryan Cristante,AS Roma,Defender Centre,186,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/DE.svg,60112.png,Pierre-Emile Hojbjerg,Tottenham Hotspur,Defensive Midfielder Centre,185,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,55478.png,Marten de Roon,Atalanta BC,Defender Centre,185,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,52438.png,Emre Can,Borussia Dortmund,Defender Centre,185,Both,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/MO.svg,77118.png,Sofyan Amrabat,ACF Fiorentina,Defensive Midfielder Centre,185,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,69941.png,Bryan Cristante,AS Roma,Defender Centre,186,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/DE.svg,60112.png,Pierre-Emile Hojbjerg,Tottenham Hotspur,Defensive Midfielder Centre,185,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,55478.png,Marten de Roon,Atalanta BC,Defender Centre,185,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,52438.png,Emre Can,Borussia Dortmund,Defender Centre,185,Both,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,50089.png,Danilo Pereira,Paris Saint-Germain,Defender Centre,188,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CA.svg,47965.png,Geoffrey Kondogbia,Olympique Marseille,Defender Centre,188,Left,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,110049.png,Alejandro Balde,Barcelona,Defender Right Left,175,Left,20
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,104701.png,Nuno Mendes,Paris Saint-Germain,Defender Left,183,Left,21
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,94161.png,Pedro Porro,Tottenham Hotspur,Defender Right,176,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/DE.svg,88424.png,Joakim Maehle,VfL Wolfsburg,Defender Right Left,184,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,82105.png,Nordi Mukiele,Paris Saint-Germain,Defender Right Centre,187,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,82015.png,Ben Chilwell,Chelsea,Defender Left,178,Left,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,81632.png,Davide Calabria,AC Milan,Defender Right,176,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EC.svg,80987.png,Pervis Estupiñán,Brighton and Hove Albion,Defender Left,175,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/DE.svg,88424.png,Joakim Maehle,VfL Wolfsburg,Defender Right Left,184,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,82105.png,Nordi Mukiele,Paris Saint-Germain,Defender Right Centre,187,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,82015.png,Ben Chilwell,Chelsea,Defender Left,178,Left,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,81632.png,Davide Calabria,AC Milan,Defender Right,176,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EC.svg,80987.png,Pervis Estupiñán,Brighton and Hove Albion,Defender Left,175,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BE.svg,75764.png,Timothy Castagne,Fulham,Defender Right Left,187,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,60103.png,Leonardo Spinazzola,AS Roma,Defender Right Left,186,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,57164.png,Marcos Acuña,Sevilla,Defender Left,172,Left,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,48635.png,Nicolás Tagliafico,Olympique Lyonnais,Defender Left,172,Left,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CO.svg,36627.png,Juan Cuadrado,Internazionale,Defender Right,179,Right,35
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,2958.png,Jesús Navas,Sevilla,Defender Right,170,Right,38
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,90317.png,Juan Foyth,Villarreal CF,Defender Right Centre,187,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/MO.svg,87422.png,Reinildo Mandava,Atlético Madrid,Defender Left Centre,180,Left,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SC.svg,83114.png,Kieran Tierney,Arsenal,Defender Left Centre,178,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BF.svg,101763.png,Edmond Tapsoba,Bayer Leverkusen,Defender Centre,190,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,2958.png,Jesús Navas,Sevilla,Defender Right,170,Right,38
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/AR.svg,90317.png,Juan Foyth,Villarreal CF,Defender Right Centre,187,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/MO.svg,87422.png,Reinildo Mandava,Atlético Madrid,Defender Left Centre,180,Left,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SC.svg,83114.png,Kieran Tierney,Arsenal,Defender Left Centre,178,Left,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BF.svg,101763.png,Edmond Tapsoba,Bayer Leverkusen,Defender Centre,190,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,101303.png,Nico Schlotterbeck,Borussia Dortmund,Defender Centre,191,Left,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,100881.png,Jurriën Timber,Arsenal,Defender Right Left Centre,179,Right,22
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,99368.png,Jean Clair Todibo,OGC Nice,Defender Centre,190,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,82097.png,Gianluca Mancini,AS Roma,Defender Centre,190,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/KO.svg,81783.png,Amir Rrahmani,SSC Napoli,Defender Centre,192,Both,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,73016.png,Lukas Klostermann,RB Leipzig,Defender Right Centre,185,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SU.svg,55619.png,Fabian Schär,Newcastle United,Defender Centre,186,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,38794.png,Rafael Tolói,Atalanta BC,Defender Centre,187,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,36680.png,Daley Blind,Girona FC,Defender Left Centre,180,Left,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,17403.png,Leonardo Bonucci,Fenerbahçe SK,Defender Centre,190,Right,36
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,73016.png,Lukas Klostermann,RB Leipzig,Defender Right Centre,185,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SU.svg,55619.png,Fabian Schär,Newcastle United,Defender Centre,186,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,38794.png,Rafael Tolói,Atalanta BC,Defender Centre,187,Right,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/NE.svg,36680.png,Daley Blind,Girona FC,Defender Left Centre,180,Left,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,17403.png,Leonardo Bonucci,Fenerbahçe SK,Defender Centre,190,Right,36
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,104458.png,Pierre Kalulu,AC Milan,Defender Right Centre,184,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/JP.svg,85867.png,Takehiro Tomiyasu,Arsenal,Defender Right Left Centre,188,Both,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,82096.png,Mario Hermoso,Atlético Madrid,Defender Left Centre,184,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,76303.png,Joe Gomez,Liverpool,Defender Right Left Centre,185,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,41233.png,Alex Sandro,Juventus,Defender Left Centre,180,Left,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,22179.png,César Azpilicueta,Atlético Madrid,Defender Right Left Centre,178,Right,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,102524.png,Marc Guehi,Crystal Palace,Defender Centre,182,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,94623.png,Roger Ibañez,Al Ahli SFC,Defender Centre,185,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,91084.png,Ibrahima Konaté,Liverpool,Defender Centre,194,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,89371.png,Ezri Konsa,Aston Villa,Defender Right Centre,183,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,22179.png,César Azpilicueta,Atlético Madrid,Defender Right Left Centre,178,Right,34
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,102524.png,Marc Guehi,Crystal Palace,Defender Centre,182,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,94623.png,Roger Ibañez,Al Ahli SFC,Defender Centre,185,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/FR.svg,91084.png,Ibrahima Konaté,Liverpool,Defender Centre,194,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,89371.png,Ezri Konsa,Aston Villa,Defender Right Centre,183,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SC.svg,85730.png,Nikola Milenković,ACF Fiorentina,Defender Right Centre,195,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/MO.svg,81023.png,Nayef Aguerd,West Ham United,Defender Centre,190,Left,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,76246.png,David García,CA Osasuna,Defender Centre,185,Both,30
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SU.svg,75092.png,Nico Elvedi,Borussia Mönchengladbach,Defender Centre,189,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/BR.svg,73978.png,Diego Carlos,Aston Villa,Defender Centre,186,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/DE.svg,71255.png,Joachim Andersen,Crystal Palace,Defender Centre,190,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CO.svg,67787.png,Chancel Mbemba,Olympique Marseille,Defender Centre,182,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,64154.png,Alessio Romagnoli,SS Lazio,Defender Centre,188,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/HU.svg,52025.png,Willi Orban,RB Leipzig,Defender Centre,186,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,51887.png,Iñigo Martínez,Barcelona,Defender Centre,182,Left,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/DE.svg,71255.png,Joachim Andersen,Crystal Palace,Defender Centre,190,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CO.svg,67787.png,Chancel Mbemba,Olympique Marseille,Defender Centre,182,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,64154.png,Alessio Romagnoli,SS Lazio,Defender Centre,188,Left,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/HU.svg,52025.png,Willi Orban,RB Leipzig,Defender Centre,186,Right,31
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,51887.png,Iñigo Martínez,Barcelona,Defender Centre,182,Left,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/SW.svg,51527.png,Victor Lindelöf,Manchester United,Defender Centre,187,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,46907.png,Lewis Dunk,Brighton and Hove Albion,Defender Centre,192,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,2989.png,Raúl Albiol,Villarreal CF,Defender Centre,190,Right,38
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/GE.svg,113440.png,Giorgi Mamardashvili,Valencia CF,Goalkeeper,197,Right,23
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,97528.png,Robert Sánchez,Chelsea,Goalkeeper,197,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,93671.png,Guglielmo Vicario,Tottenham Hotspur,Goalkeeper,194,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,93388.png,Diogo Costa,FC Porto,Goalkeeper,187,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,90918.png,Aaron Ramsdale,Arsenal,Goalkeeper,188,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,88444.png,Unai Simón,Athletic Club,Goalkeeper,190,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,78609.png,Alex Meret,SSC Napoli,Goalkeeper,191,Left,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,93671.png,Guglielmo Vicario,Tottenham Hotspur,Goalkeeper,194,Right,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/PO.svg,93388.png,Diogo Costa,FC Porto,Goalkeeper,187,Right,24
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,90918.png,Aaron Ramsdale,Arsenal,Goalkeeper,188,Right,25
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,88444.png,Unai Simón,Athletic Club,Goalkeeper,190,Right,26
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/IT.svg,78609.png,Alex Meret,SSC Napoli,Goalkeeper,191,Left,27
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,76101.png,David Raya,Brentford,Goalkeeper,183,Right,28
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/ES.svg,75052.png,Álex Remiro,Real Sociedad,Goalkeeper,191,Right,29
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/EN.svg,68815.png,Nick Pope,Newcastle United,Goalkeeper,190,Right,32
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/MO.svg,51614.png,Yassine Bounou,Al Hilal SFC,Goalkeeper,190,Left,33
+https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/CR.svg,25010.png,Keylor Navas,Paris Saint-Germain,Goalkeeper,185,Right,37
